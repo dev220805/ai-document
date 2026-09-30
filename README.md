@@ -42,12 +42,6 @@ A production-grade **RAG (Retrieval-Augmented Generation)** API system for intel
 
 text
 
-## 📋 Prerequisites
-
-- Docker and Docker Compose
-- Python 3.11+ (for local development)
-- OpenAI API key
-
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
@@ -244,8 +238,6 @@ Custom embedding models
 🤝 Contributing
 Contributions are welcome! Please read our contributing guidelines.
 
-📄 License
-MIT License - see LICENSE file
 
 🙏 Acknowledgments
 FastAPI for the amazing framework
